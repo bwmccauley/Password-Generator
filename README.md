@@ -2,7 +2,7 @@ Password - Generator
 
 
 ## Description
- The foloowing pjoect was to create a random pasword -generator that owuld inlcude
+ The following pjoect was to create a random pasword-generator that owuld inlcude
   all characters and special caracters that is at least 8 characters long
  and no more that 128. In this project I learned how to use a javascript for loop. How to 
  create functions that were working properly. Also using choiceArray for the first time.
